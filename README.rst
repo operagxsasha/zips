@@ -1,5 +1,4 @@
-.. Title: Specifications and Zcash Improvement Proposals
-
+[![License](https://img.shields.io/github/license/zcash/zips)](https://opensource.org/license/MIT)
 
 What are ZIPs?
 --------------
